@@ -1,0 +1,6 @@
+{
+  "name": "Free Text to Speech",
+  "description": "A powerful free and offline Text to Speech (TTS) converter with multi-language support, voice speed and pitch controls, audio export, and saved speech history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
